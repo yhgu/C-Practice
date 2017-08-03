@@ -1,1 +1,1 @@
-# C-Practice
+# MXnet-Practice
